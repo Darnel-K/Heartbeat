@@ -7,6 +7,10 @@ Versioning numbers defined as MAJOR.MINOR.PATCH
 
 ## [0.0.0] - 2018-10-03
 
+### Changed
+
+-   Readme
+
 ### Added
 
 -   Changelog
